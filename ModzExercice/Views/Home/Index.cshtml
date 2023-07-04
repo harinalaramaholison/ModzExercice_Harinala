@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bonjour</h1>
+    <p>Voici l'exercice qui est proposé :</a>.</p>
+</div>
+<div>
+    <p>Le but de l'exercice est de valider la qualit&eacute; du code, de sa structure et le respect des bonnes pratiques et de l'architecture.</p>
+<p>&nbsp;</p>
+<p>Pour cela un squellete fonctionnel de site est fourni.</p>
+<p>Il est compos&eacute; d'une Web App .Net 6 MVC, utilisant de l'injection de d&eacute;pendance.</p>
+<p>Un premier controller "Home" contient les &eacute;l&eacute;ments n&eacute;cessaires &agrave; l'appel de la page d'accueil du site.</p>
+<p>Un sous-projet ModzExercice.CoreData a pour objectif de contenir tous les objets, structures et enums transverses au projet.</p>
+<p>Un sous-projet ModzExercice.Services contient les interfaces et les impl&eacute;mentations pour les services.</p>
+<p>L'injection de d&eacute;pendance est configur&eacute;e par du code dans la classe DependencyConfiguration</p>
+<p>&nbsp;</p>
+</div>
+
+<div>
+    <p>Le but de l'exercice est le suivant.</p>
+<p>Dans la structure du projet .Net 6 fournie dans l'exercice la demande est la suivante :</p>
+<p>1) Ajouter un menu "Import" dans le manu principal de l'application</p>
+<p>2) Ce menu am&egrave;ne &agrave; une page d'import de fichier contenant un formulaire de s&eacute;lection de fichier.</p>
+<p>format :</p>
+<p><img src="/content/imgs/capture1.jpg" alt="" /></p>
+<p>3) Le s&eacute;lecteur de fichier doit filtrer pour ne permettre de charger que les fichier .csv</p>
+<p>4) Le fichier &agrave; traiter a la structure suivante</p>
+<ul>
+<li>le fichier contient une ligne d'ent&ecirc;te &agrave; ignorer</li>
+<li>11 colonnes
+<ul>
+<li>ORDERID</li>
+<li>NATURE</li>
+<li>OPERATIONTYPE</li>
+<li>AMOUNT</li>
+<li>CURRENCY</li>
+<li>BILLINGFEES INCL. VAT</li>
+<li>DATE</li>
+<li>CHARGEBACKDATE</li>
+<li>TRANSFER REFERENCE</li>
+<li>EXTRADATA</li>
+<li>3DSECUREFEE</li>
+</ul>
+</li>
+<li>Les champs sont s&eacute;par&eacute;s par des ;</li>
+<li>Certain champs peuvent &ecirc;tre encadr&eacute;s par des " (double quote)</li>
+<li>le fichier peut contenir de 0 &agrave; 1 000 000 de lignes</li>
+</ul>
+<p>5) Le traitement attendu est de g&eacute;n&eacute;rer en sortie un fichier au format suivant :</p>
+<ul>
+<li>fichier csv s&eacute;par&eacute; par des ; nomm&eacute; AAAMMJJ-ProcessedFile.csv</li>
+<li>contenant une ligne d'ent&ecirc;te et les colonnes suivantes :
+<ul>
+<li>Date</li>
+<li>TotalAmout</li>
+<li>TotalBillingFee</li>
+<li>Total3dsFee</li>
+</ul>
+</li>
+<li>Le fichier doit contenir une ligne par jour du fichier source.
+<ul>
+<li>Date : Date</li>
+<li>TotalAmout : somme de AMOUT pour les lignes ayant payement dans&nbsp;OPERATIONTYPE</li>
+<li>TotalBillingFee : somme de BILLINGFEES INCL. VAT pour les lignes ayant payement dans OPERATIONTYPE</li>
+<li>Total3dsFee : somme de 3DSECUREFEE pour les lignes ayant payement dans OPERATIONTYPE</li>
+</ul>
+</li>
+</ul>
+<p>Le traitement doit logger les erreurs et logger un compte rendu de traitement :</p>
+<ul>
+<li>nombre de lignes trait&eacute;e</li>
+<li>nombre de lignes OK</li>
+<li>liste des erreurs</li>
+</ul>
+<p>Le projet doit mettre en oeuvre de l'injection de d&eacute;pendance.</p>
+<p>&nbsp;</p>
+<p>Pour tester et valider le projet un jeu de test est founi.</p>
+<p>&nbsp;</p>
+<p>Il est compos&eacute; de 3 paires de fichiers Soures -&gt; R&eacute;sultat qui permettront de valider les d&eacute;veloppements.</p>
+<p>Les 3 fichiers sont :</p>
+<p>Fichier de taille normale sans erreur</p>
+<p>Fichier_1.csv --&gt; 20230221-ProcessedFile_Fichier_1.txt&nbsp;</p>
+<p>&nbsp;</p>
+<p>Fichier de taille normale avec quelques erreurs de contenu</p>
+<p>Fichier_2.csv --&gt; 20230221-ProcessedFile_Fichier_2.txt</p>
+<p>&nbsp;</p>
+<p>Fichier de grande taille</p>
+<p>Fichier_3.csv --&gt; 20230221-ProcessedFile_Fichier_3.txt</p>
+<p>&nbsp;</p>
+</div>

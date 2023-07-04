@@ -1,0 +1,26 @@
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.Services.deps.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.Services.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\bin\Debug\net6.0\ref\ModzExercice.Services.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.Services.pdb
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.AssemblyInfoInputs.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.AssemblyInfo.cs
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.csproj.CoreCompileInputs.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ref\ModzExercice.Services.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.Services.deps.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.Services.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.Services.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.CoreData.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\bin\Debug\net6.0\ModzExercice.CoreData.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.csproj.AssemblyReference.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.AssemblyInfoInputs.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.AssemblyInfo.cs
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.csproj.CoreCompileInputs.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.csproj.CopyComplete
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\refint\ModzExercice.Services.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ModzExercice.Services.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Services\obj\Debug\net6.0\ref\ModzExercice.Services.dll

@@ -1,0 +1,12 @@
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\bin\Debug\net6.0\ModzExercice.CoreData.deps.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\bin\Debug\net6.0\ModzExercice.CoreData.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\bin\Debug\net6.0\ModzExercice.CoreData.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.csproj.AssemblyReference.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.GeneratedMSBuildEditorConfig.editorconfig
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.AssemblyInfoInputs.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.AssemblyInfo.cs
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.csproj.CoreCompileInputs.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\refint\ModzExercice.CoreData.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ModzExercice.CoreData.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice.Entities\obj\Debug\net6.0\ref\ModzExercice.CoreData.dll

@@ -1,0 +1,13 @@
+﻿@model ModzExercice.WebApp.Models.ImportViewModel
+
+@{
+    ViewData["Title"] = "Import Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Import de fichier de l'exercice</h1>
+    <form enctype="multipart/form-data" method="post">
+        <label>Choisir le fichier:</label><input type="file" accept=".csv" name="file" /><button type="submit">Envoyer</button>
+        <span asp-validation-for="File" class="text-danger"></span>
+    </form>
+</div>

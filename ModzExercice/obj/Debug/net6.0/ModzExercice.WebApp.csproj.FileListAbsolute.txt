@@ -1,0 +1,63 @@
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\appsettings.Development.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\appsettings.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.staticwebassets.runtime.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.exe
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.deps.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.runtimeconfig.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ref\ModzExercice.WebApp.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.pdb
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.csproj.AssemblyReference.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.AssemblyInfoInputs.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.AssemblyInfo.cs
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.csproj.CoreCompileInputs.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.RazorAssemblyInfo.cache
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.RazorAssemblyInfo.cs
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\staticwebassets.build.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\staticwebassets.development.json
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\scopedcss\bundle\ModzExercice.WebApp.styles.css
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\scopedcss\projectbundle\ModzExercice.WebApp.bundle.scp.css
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ref\ModzExercice.WebApp.dll
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.pdb
+C:\MODZ\SourceGit\ModzExercice\ModzExercice\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.genruntimeconfig.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\appsettings.Development.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\appsettings.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.staticwebassets.runtime.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.exe
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.deps.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.runtimeconfig.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.WebApp.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.CoreData.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.Services.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.Services.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\bin\Debug\net6.0\ModzExercice.CoreData.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.csproj.AssemblyReference.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.AssemblyInfoInputs.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.AssemblyInfo.cs
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.csproj.CoreCompileInputs.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.RazorAssemblyInfo.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.RazorAssemblyInfo.cs
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets\msbuild.ModzExercice.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets\msbuild.build.ModzExercice.WebApp.props
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModzExercice.WebApp.props
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModzExercice.WebApp.props
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets.build.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\staticwebassets.development.json
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\scopedcss\bundle\ModzExercice.WebApp.styles.css
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\scopedcss\projectbundle\ModzExercice.WebApp.bundle.scp.css
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.csproj.CopyComplete
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\refint\ModzExercice.WebApp.dll
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.pdb
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ModzExercice.WebApp.genruntimeconfig.cache
+D:\FREE\DotNet - Nicolas\Modz_Madagascar_shared\ModzExercice_Harinala\ModzExercice\obj\Debug\net6.0\ref\ModzExercice.WebApp.dll

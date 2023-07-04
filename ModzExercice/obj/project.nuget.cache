@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkX7i+aeWqn2IcQ+PGxlCWks5oOkQi1Gax28oT5xF5Xhy2lFJA75C/zHBGizD8Sc1UKTQlH4AkENOqk+z6CSAg==",
+  "success": true,
+  "projectFilePath": "D:\\FREE\\DotNet - Nicolas\\Modz_Madagascar_shared\\ModzExercice_Harinala\\ModzExercice\\ModzExercice.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
