@@ -1,4 +1,6 @@
 ﻿
+using ModzExercice.Services.Implementations;
+using ModzExercice.Services.Interfaces;
 
 namespace ModzExercice.WebApp
 {
@@ -14,7 +16,7 @@ namespace ModzExercice.WebApp
         public void Register()
         {
             // Enregistrer ici les services de l'application
-            
+            _services.AddTransient<IImportService, ImportService>();
         }
      }
 

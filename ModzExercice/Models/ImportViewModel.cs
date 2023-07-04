@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ModzExercice.WebApp.CustomValidation;
+using System.ComponentModel.DataAnnotations;
 
 namespace ModzExercice.WebApp.Models
 {
@@ -6,7 +7,8 @@ namespace ModzExercice.WebApp.Models
     {
         [Required(ErrorMessage = "Please select a file.")]
         [DataType(DataType.Upload)]
-        [FileExtensions(ErrorMessage = "Must choose .csv file.", Extensions = "csv")]
+        //[FileExtensions(ErrorMessage = "Must choose .csv file.", Extensions = "csv")]
+        [MyFileExtension(ErrorMessage = "Must select .csv file!", AllowedExtensions = "csv")]
         public IFormFile? File { get; set; }
     }
 }
